@@ -46,7 +46,7 @@ function copyToClipboard() {
   textarea.select();
   document.execCommand("copy");
   document.body.removeChild(textarea);
-  alert("Passphrase copied to clipboard!");
+  alert("Senha copiada!");
 }
 
 generateBtn.addEventListener("click", () => {
