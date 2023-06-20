@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "network": "vesselone.twingate.com",
+  "service_account_id": "f44207e0-c74e-437a-a76a-22b0e0fa2f34",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgDKIwrPtJBXPl0ECf\nFCz1YPaP1o9yvc13WAE2/BZ3cyChRANCAAS1JrU+i+ybZx2bLikegoF2AfVEdkEx\nXfnN+mcMG7tblzEzhJBCkATY5n9UnGdRiaUUWBZn3WGIvODLAlnmhQcB\n-----END PRIVATE KEY-----",
+  "key_id": "qPCra1UhqXpjHBg-id7ytrSikfypi4ATCPFC4PCrB6s",
+  "expires_at": null,
+  "login_path": "/api/v4/headless/login"
+}
