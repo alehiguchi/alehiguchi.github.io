@@ -46,7 +46,6 @@ function copyToClipboard() {
   textarea.select();
   document.execCommand("copy");
   document.body.removeChild(textarea);
-  alert("Senha copiada!");
 }
 
 generateBtn.addEventListener("click", () => {
